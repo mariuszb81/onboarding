@@ -1,0 +1,8 @@
+auth:
+  username: myuser
+  password: mypassword
+  database: mydatabase
+
+primary:
+  persistence:
+    enabled: false  # dla Minikube – bez PV
